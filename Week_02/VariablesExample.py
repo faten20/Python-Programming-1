@@ -1,14 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
+#concatenate variable to string
 a = "fun"
 print("Python is " + a)
 
 
-# In[ ]:
 
 
 
