@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
 
 #python program to ask the user to enter a number and check if the entered number is positive , negative ,or zero
 
@@ -17,7 +12,6 @@ else:
     print("Negative number")
 
 
-# In[ ]:
 
 
 
