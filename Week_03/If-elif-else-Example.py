@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
 
 
 #python program to ask the user to enter a number and check if the entered number is one digit,two digit,three digit,or 4 digit
@@ -19,7 +15,6 @@ else:
     print("enter number between 0 and 9999")
 
 
-# In[ ]:
 
 
 
