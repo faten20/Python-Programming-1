@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
 
 #python program to ask the user to enter a number and check if the entered number is even or odd.
 
@@ -15,13 +10,12 @@ else :
  
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
 
 
 
