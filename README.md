@@ -1,1 +1,1 @@
-# Python-Programming-1 for teaching
+# Python-Programming-1 for Python programming teaching
